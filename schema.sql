@@ -11,4 +11,3 @@ CREATE TABLE historico_atividades (
     origem_dados VARCHAR(50) NOT NULL
 );
 
-DESCRIBE historico_atividades;
